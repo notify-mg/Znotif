@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "337681547125",
+    "project_id": "znotif",
+    "storage_bucket": "znotif.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337681547125:android:42464f2845dce3e3531d3c",
+        "android_client_info": {
+          "package_name": "com.andydevlabs.Znotif"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOYIVng9B8QvvqWD8WyaH4QV9jZxFqSOo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
